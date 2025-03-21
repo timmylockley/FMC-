@@ -11,4 +11,4 @@ A simple Express.js application for practicing FMC Computers.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/my-project.git
+   git clone https://github.com/timmylockley/FMC-Computer-.git
